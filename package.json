@@ -1,6 +1,6 @@
 {
   "name": "@gandalfzyq/antd-v4",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "To support antd-v4 at the same time.",
   "main": "index.js",
   "author": "gandalfzyq",
