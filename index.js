@@ -1,2 +1,2 @@
 // index.js
-module.exports = require("express");
+module.exports = require("antd");
