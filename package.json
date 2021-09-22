@@ -7,5 +7,6 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^4.16.13"
-  }
+  },
+  "repository": "gandalfzyq/antd-v4"
 }
