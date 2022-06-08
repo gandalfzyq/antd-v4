@@ -1,12 +1,12 @@
 {
   "name": "@gandalfzyq/antd-v4",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "To support antd-v4 at the same time.",
   "main": "index.js",
   "author": "gandalfzyq",
   "license": "ISC",
   "dependencies": {
-    "antd": "^4.18.8"
+    "antd": "^4.21.0"
   },
   "repository": "gandalfzyq/antd-v4"
 }
